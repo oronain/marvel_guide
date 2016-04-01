@@ -8,6 +8,8 @@
 
 すでにMarvelのアカウントを取得していることを前提に進めます。
 
+&nbsp;
+&nbsp;
 
 ##サインイン
 
@@ -23,6 +25,8 @@ Create Prjectのボタンを押します。
 
 ![marvel](img/cap-top.png)
 
+&nbsp;
+&nbsp;
 
 ##プロジェクト作成
 
@@ -35,6 +39,8 @@ Webサイトやアプリの名前を入れてください。
 
 ![device](img/device.png)
 
+&nbsp;
+&nbsp;
 
 ##デザインのアップロード
 
@@ -44,6 +50,8 @@ Drop your designs here!と出るので、
 ![marvel](img/marvel02.png)
 ![folder01](img/folder01.png)
 
+&nbsp;
+&nbsp;
 
 ##リンク領域の設定
 
@@ -65,6 +73,8 @@ Drop your designs here!と出るので、
 
 ![marvel](img/04.png)
 
+&nbsp;
+&nbsp;
 
 ##トランジションの設定
 
@@ -88,6 +98,8 @@ Drop your designs here!と出るので、
 
 ![marvel](img/06.png)
 
+&nbsp;
+&nbsp;
 
 ##アクションの設定
 
@@ -101,6 +113,8 @@ Drop your designs here!と出るので、
 
 ![marvel](img/07.png)
 
+&nbsp;
+&nbsp;
 
 ##動作の確認
 
@@ -113,6 +127,9 @@ Drop your designs here!と出るので、
 ブラウザである程度の遷移を作ることができたら、モバイル端末でも実際に動作やデザインを確認してみましょう。
 
 スマートフォン端末にMarvelのアプリケーションをダウンロードし、先ほどブラウザでサインインしたIDと同じもので設定します。すると作成したプロジェクト名が表示され、テストができるようになります。
+
+&nbsp;
+&nbsp;
 
 ##動画でのチュートリアル
 
