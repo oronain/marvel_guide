@@ -21,6 +21,9 @@ Marvelのサイトにアクセスしてください。
 
 ![marvel](img/cap-marvelapp.png)
 
+&nbsp;
+&nbsp;
+
 Create Prjectのボタンを押します。
 
 ![marvel](img/cap-top.png)
@@ -61,6 +64,8 @@ Drop your designs here!と出るので、
 
 ![marvel](img/03.png)
 
+&nbsp;
+&nbsp;
 
 スプラッシュ画面には、全体にリンクを貼ります。  
 ドラッグで、ブルーのリンク領域を広げてください。
@@ -88,6 +93,9 @@ Drop your designs here!と出るので、
 ここでは、ホーム画面トップに遷移させたいので、03topic1という画像をクリックします。
 
 ![marvel](img/05.png)
+
+&nbsp;
+&nbsp;
 
 今度は、遷移のトランジション（アニメーション）をつけます。
 
@@ -123,6 +131,8 @@ Drop your designs here!と出るので、
 
 ![marvel](img/08.png)
 
+&nbsp;
+&nbsp;
 
 ブラウザである程度の遷移を作ることができたら、モバイル端末でも実際に動作やデザインを確認してみましょう。
 
